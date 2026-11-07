@@ -1,2 +1,2 @@
 # ProMaxDrawer
-i hate bugs too
+better than AdvancedTex
